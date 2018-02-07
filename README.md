@@ -11,22 +11,14 @@ Develop &amp; Build [GatsbyJS](https://www.gatsbyjs.org/) static sites within a 
 
 ## Setup
 
-### Container setup
-```sh
-docker build -t gatsby-docker .
-```
+Note: Your GatsbyJS site will be created into `$(pwd)/site` automatically.
 
-Add these to `.gitignore`:
+Add these to your `.gitignore`:
 ```
 site/node_modules
 site/public
 site/.cache
 ```
-
-### Requirements / setup
-
-Will automatically create `./site` directory and initialize GatsbyJS site into it (if not already initialized).
-
 
 ## Usage
 
