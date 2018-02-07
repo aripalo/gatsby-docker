@@ -30,7 +30,7 @@ docker run -it --rm -v $(pwd)/site:/site -p 8000:8000 gatsby-docker:latest devel
 
 ### Stage
 
-I.e. build and serve:
+In other words, build and serve:
 ```sh
 docker run -it --rm -v $(pwd)/site:/site -p 8000:8000 gatsby-docker:latest stage
 ```
