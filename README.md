@@ -6,6 +6,7 @@ Develop &amp; Build [GatsbyJS](https://www.gatsbyjs.org/) static sites within a 
 - 👍 **Simple CLI API**: [`develop`/`stage`/`build`](#usage)
 - 🍃 **Lightweight**'ish Docker image (size only ~`250 MB`)
 - 🆕 **Recent NodeJS**: Container based on [NodeJS `v9.5` running in Alpine Linux](https://github.com/nodejs/docker-node/blob/db3b27c8388136b5e529861d7c3fa12fd8328301/9/alpine/Dockerfile)
+- 📃 [MIT](https://github.com/aripalo/gatsby-docker/blob/master/LICENSE)-licensed
 
 
 
