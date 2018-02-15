@@ -12,15 +12,7 @@ Develop &amp; Build [GatsbyJS](https://www.gatsbyjs.org/) static sites within a 
 
 ## Setup
 
-### 1. Create subdirectory called `site`
-
-```sh
-mkdir -p $(pwd)/site
-```
-
-Your GatsbyJS site will be created into `$(pwd)/site` automatically.
-
-### 2. Git ignore couple directories
+**NOTE**: Your GatsbyJS site will be created into `$(pwd)/site` automatically.
 
 Add these to your `.gitignore`:
 ```
