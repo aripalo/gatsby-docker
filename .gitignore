@@ -2,3 +2,7 @@
 site/node_modules
 site/public
 site/.cache
+
+# This is ignored in this Docker image project as we don't really wan't to build
+# sites here locally, instead site folder used for testing gatsby workflows.
+/site
